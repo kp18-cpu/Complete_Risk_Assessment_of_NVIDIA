@@ -65,17 +65,17 @@ The report identifies five critical risk areas requiring immediate attention:
 The report details various preventative, detective, forensic, and audit controls categorized by risk level:
 
 * **Critical Risk Controls:**
-    * **Supply Chain Security:** Includes Vendor Assessment and Due Diligence [cite: 88], Supply Chain Visibility [cite: 91], Component Validation [cite: 95], and Continuous Monitoring.
-    * **GPU Driver Security:** Focuses on Regular Driver Updates [cite: 103], Driver Whitelisting [cite: 105], Driver Activity Monitoring [cite: 108], and Secure Boot Process.
-    * **Firmware Security:** Covers Regular Firmware Updates [cite: 113], Firmware Validation [cite: 115], and Firmware Update Activity Monitoring.
-    * **Intellectual Property Protection:** Involves Confidential Computing [cite: 122], Access Control [cite: 125], Data Encryption [cite: 127], and User Behaviour Analytics.
-    * **Ransomware Protection:** Employs AI-Enhanced Security [cite: 133], Network Segmentation [cite: 135], Backup and Recovery [cite: 137], and Behavioral Monitoring.
+    * **Supply Chain Security:** Includes Vendor Assessment and Due Diligence 88, Supply Chain Visibility 91, Component Validation 95, and Continuous Monitoring.
+    * **GPU Driver Security:** Focuses on Regular Driver Updates 103, Driver Whitelisting 105, Driver Activity Monitoring 108, and Secure Boot Process.
+    * **Firmware Security:** Covers Regular Firmware Updates 113, Firmware Validation 115, and Firmware Update Activity Monitoring.
+    * **Intellectual Property Protection:** Involves Confidential Computing 122, Access Control 125, Data Encryption 127, and User Behaviour Analytics.
+    * **Ransomware Protection:** Employs AI-Enhanced Security 133, Network Segmentation 135, Backup and Recovery 137, and Behavioral Monitoring.
 * **Moderate Risk Controls:**
-    * **Server Security:** Addresses Patch Management [cite: 141], Secure Configuration [cite: 143], Vulnerability Scanning [cite: 145], and Log Monitoring.
-    * **DDoS Protection:** Focuses on Deep Learning-based DDoS Protection [cite: 150], Traffic Management [cite: 152], Rate Limiting [cite: 154], and Traffic Analysis.
-    * **Insider Threat Protection:** Utilizes User Behavior Analytics [cite: 159], Access Control [cite: 161], Data Loss Prevention [cite: 163], and Security Awareness Training.
+    * **Server Security:** Addresses Patch Management 141, Secure Configuration 143, Vulnerability Scanning 145, and Log Monitoring.
+    * **DDoS Protection:** Focuses on Deep Learning-based DDoS Protection 150, Traffic Management 152, Rate Limiting 154, and Traffic Analysis.
+    * **Insider Threat Protection:** Utilizes User Behavior Analytics 159, Access Control 161, Data Loss Prevention 163, and Security Awareness Training.
 * **Low Risk Controls:**
-    * **Phishing Protection:** Includes AI-Enhanced Email Security [cite: 169], Multi-Factor Authentication [cite: 171], Security Awareness Training [cite: 173], and Email Monitoring.
+    * **Phishing Protection:** Includes AI-Enhanced Email Security 169, Multi-Factor Authentication 171, Security Awareness Training 173, and Email Monitoring.
 
 ## Budget Analysis and Comparison
 
@@ -105,10 +105,10 @@ A phased implementation approach is recommended to prioritize critical risks and
 
 Our thorough study leads us to advise NVIDIA on the following strategic moves:
 * **Increase Security Investment:** Raise the security budget to at least 0.1% of income (about \$130 million), which would still be below industry averages but would offer a more robust security posture given NVIDIA's vital position in the AI ecosystem and value of its intellectual property.
-* **Prioritize Weakest Control Areas:** Focus immediate attention on strengthening insider threat management in R&D settings utilizing sophisticated behavioral analytics and all-encompassing data loss prevention[cite: 283]. Also, strengthen supply chain security with blockchain-based component validation and ongoing monitoring [cite: 284], and standardize firmware security across all product lines with automated update systems and consistent secure boot implementation.
+* **Prioritize Weakest Control Areas:** Focus immediate attention on strengthening insider threat management in R&D settings utilizing sophisticated behavioral analytics and all-encompassing data loss prevention283. Also, strengthen supply chain security with blockchain-based component validation and ongoing monitoring 284, and standardize firmware security across all product lines with automated update systems and consistent secure boot implementation.
 * **Implement Phased Approach:** Follow the phased implementation strategy described in this paper to prioritize important hazards and guarantee that the company can efficiently absorb the changes.
 * **Establish Comprehensive Risk Transfer Strategy:** With an expected annual cost of \$12.6 million, apply the advised risk transfer strategy through cybersecurity insurance to handle risks that cannot be directly reduced with technical controls.
-* **Enhance Non-Technical Controls:** Strengthen non-technical controls through complete security awareness and instruction programs [cite: 288], strong policies and practices with well-defined roles and obligations [cite: 289], complete third-party risk control [cite: 253], and improved physical security protocols.
+* **Enhance Non-Technical Controls:** Strengthen non-technical controls through complete security awareness and instruction programs 288, strong policies and practices with well-defined roles and obligations 289, complete third-party risk control 253, and improved physical security protocols.
 * **Regularly Reassess Security Posture:** Create a continuous security assessment system to routinely assess the performance of put-in-place controls and modify the security plan as necessary to handle changing corporate needs and developing risks.
 
 ## Next Steps
